@@ -1,10 +1,10 @@
 import landingImage from "../assets/react.svg";
 import appDownloadImage from "../assets/react.svg";
 // import SearchBar, { SearchForm } from "@/components/SearchBar";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 
 const HomePage = () => {
-    const navigate = useNavigate();
+    // const navigate = useNavigate();
 
     // const handleSearchSubmit = (searchFormValues: SearchForm) => {
     //     navigate({
